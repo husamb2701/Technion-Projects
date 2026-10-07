@@ -19,7 +19,6 @@ My primary focus in these projects has been on **system-level C++ development**,
 | **MatamStory** | Event-driven OOP simulation engine. | Polymorphism, Factory Pattern, Smart Pointers. |
 
 ## Contact & Professional Profile
-* **LinkedIn:** [My LinkedIn Profile](https://www.linkedin.com/in/bar-zvi-298a21278/)
-* **Resume:** [View / Download PDF](Bar%20Zvi%20resume.pdf)
+* **LinkedIn:** [My LinkedIn Profile](https://www.linkedin.com/in/husam-badah-284b46342/)
 ---
 *Note: All projects were implemented using standard C++17, adhering to strict complexity requirements as defined in the course curriculum.*
